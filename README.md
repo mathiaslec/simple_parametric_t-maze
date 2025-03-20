@@ -4,6 +4,8 @@ The design is based on the following article: **Robert M J Deacon & J Nicholas P
 
 ![Alt Text](img/parametric_tmaze_freecad.gif)
 
+![Alt Text](img/tmaze_with_doors.png)
+
 # Want to laser cut the maze ? 
 The following files are already available:
 - Mouse
