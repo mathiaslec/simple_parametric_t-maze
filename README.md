@@ -2,7 +2,7 @@
 This is a simple and parametric T-maze designed with FreeCAD for laser cutting.
 The design is based on the following article: **Robert M J Deacon & J Nicholas P Rawlins** (2006). _T-maze alternation in the rodent_.
 
-![Alt Text](img/parametric_tmaze_freecad.gif)
+![Alt Text](img/parametric_tmaze_freecad.gif) 
 
 ![Alt Text](img/tmaze_with_doors.png)
 
@@ -28,6 +28,11 @@ The following files are already available:
 - start_arm_long (x2)
 - start_arm_wall_small (x1)
 - start_floor (x1)
+
+<p float="left">
+  <img src="img/tmaze1.jpg" width="49%"  />
+  <img src="img/tmaze2.jpg" width="49%"/>
+</p>
 
 # Want to play with parametric CAD files ?
 
